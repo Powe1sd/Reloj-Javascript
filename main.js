@@ -1,4 +1,3 @@
-
 window.onload = function() {
     const hr = document.getElementById("hr");
     const mt = document.getElementById("mt");
